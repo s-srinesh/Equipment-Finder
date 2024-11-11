@@ -11,5 +11,6 @@ scipy
 xgboost
 lightgbm
 flask
+flask-cors
 requests
 gunicorn==20.1.0
